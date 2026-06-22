@@ -1,4 +1,0 @@
-{
-  "test/test_adduser.py::test_add_group": true,
-  "test/test_delgroup.py::test_del_group": true
-}
